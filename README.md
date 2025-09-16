@@ -86,7 +86,6 @@ This is a personal portfolio project. The code is private, but you can explore t
 
 If you'd like to connect or collaborate:  
 - 🌐 Website: [researchlytic.com](https://researchlytic.com)  
-- 💼 LinkedIn: [Your LinkedIn Profile]  
-- 🐦 Twitter: [Your Twitter Handle]  
+- 💼 LinkedIn: www.linkedin.com/in/muhammad-tayyab-nlp
 
 ---
