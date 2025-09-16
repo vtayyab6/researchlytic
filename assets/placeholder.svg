@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" role="img" aria-labelledby="title desc">
+  <title>Screenshot placeholder</title>
+  <desc>A light gray placeholder image for Researchlytic screenshots.</desc>
+  <rect width="600" height="400" fill="#f2f4f8"/>
+  <path d="M40 320 L200 180 L320 280 L420 200 L560 320" fill="none" stroke="#a7b4c9" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="160" cy="160" r="40" fill="none" stroke="#a7b4c9" stroke-width="12"/>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="32" font-family="'Segoe UI', Tahoma, sans-serif" fill="#6b7a99">Researchlytic</text>
+</svg>

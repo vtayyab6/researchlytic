@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Researchlytic – Research Trends Intelligence</title>
+  <meta name="description" content="Researchlytic helps you uncover global research trends, publication activity, and key contributors for any topic." />
+  <link rel="stylesheet" href="styles/main.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+</head>
+<body>
+  <header class="hero">
+    <div class="hero__content">
+      <div class="hero__kicker">Researchlytic</div>
+      <h1 class="hero__title">Discover what the world is researching about</h1>
+      <p class="hero__subtitle">Search any topic and instantly explore research activity, publication momentum, and the people and organisations that shape the conversation.</p>
+      <form class="hero__input" aria-label="Research search form">
+        <label class="sr-only" for="topic-input">Enter a research term or a topic</label>
+        <input id="topic-input" name="topic" type="search" placeholder="Enter a research term or a topic" />
+        <button type="button">Analyze</button>
+      </form>
+    </div>
+  </header>
+
+  <main class="main">
+    <div class="grid">
+      <section class="feature-card" id="publication-interest">
+        <div class="feature-card__content">
+          <div class="feature-card__kicker">Trend intelligence</div>
+          <h2 class="feature-card__title">Publication interest over time</h2>
+          <p class="feature-card__description">See how the popularity of your research keyword has changed over time, and get an idea of the overall trend in research and publication activity related to your keyword.</p>
+        </div>
+        <figure class="feature-card__media">
+          <img src="assets/placeholder.svg" data-feature="publication-interest" alt="Screenshot of publication interest over time chart" />
+        </figure>
+      </section>
+
+      <section class="feature-card" id="refine-your-search">
+        <div class="feature-card__content">
+          <div class="feature-card__kicker">Advanced filters</div>
+          <h2 class="feature-card__title">Refine your search</h2>
+          <p class="feature-card__description">Use advanced filters such as location, period, subjects, and study type to narrow down and refine your search for studies related to your research keyword.</p>
+        </div>
+        <figure class="feature-card__media">
+          <img src="assets/placeholder.svg" data-feature="refine-your-search" alt="Screenshot of filters panel used to refine research" />
+        </figure>
+      </section>
+
+      <section class="feature-card" id="studies-scr">
+        <div class="feature-card__content">
+          <div class="feature-card__kicker">Impact metrics</div>
+          <h2 class="feature-card__title">Studies, SCR and SCRP</h2>
+          <p class="feature-card__description">Analyze metrics such as Studies, SCR (Study to Citation Ratio) and SCRP (Study to Citation Ratio Percentage) to understand the research activity, popularity and impact of a specific research area over time.</p>
+        </div>
+        <figure class="feature-card__media">
+          <img src="assets/placeholder.svg" data-feature="studies-scr" alt="Screenshot highlighting Studies, SCR and SCRP metrics" />
+        </figure>
+      </section>
+
+      <section class="feature-card" id="leading-countries">
+        <div class="feature-card__content">
+          <div class="feature-card__kicker">Global reach</div>
+          <h2 class="feature-card__title">Leading countries in your research area</h2>
+          <p class="feature-card__description">Find out which countries are particularly interested in your research keyword, and identify regional trends in research activity.</p>
+        </div>
+        <figure class="feature-card__media">
+          <img src="assets/placeholder.svg" data-feature="leading-countries" alt="Screenshot showing leading countries in the research area" />
+        </figure>
+      </section>
+
+      <section class="feature-card" id="institutions">
+        <div class="feature-card__content">
+          <div class="feature-card__kicker">Institutional insights</div>
+          <h2 class="feature-card__title">Research interest by institutions</h2>
+          <p class="feature-card__description">See which institutions are actively researching in your field, and get insights into the research focus of different institutions.</p>
+        </div>
+        <figure class="feature-card__media">
+          <img src="assets/placeholder.svg" data-feature="institutions" alt="Screenshot of institutions researching in the selected field" />
+        </figure>
+      </section>
+
+      <section class="feature-card" id="subjects-subtopics">
+        <div class="feature-card__content">
+          <div class="feature-card__kicker">Topic discovery</div>
+          <h2 class="feature-card__title">Research subjects and subtopics</h2>
+          <p class="feature-card__description">Explore the different subjects and subtopics related to your research keyword, and identify the most heavily researched areas within your field.</p>
+        </div>
+        <figure class="feature-card__media">
+          <img src="assets/placeholder.svg" data-feature="subjects-subtopics" alt="Screenshot showing research subjects and subtopics" />
+        </figure>
+      </section>
+
+      <section class="feature-card" id="publishers">
+        <div class="feature-card__content">
+          <div class="feature-card__kicker">Publishing landscape</div>
+          <h2 class="feature-card__title">Publishers in your research domain</h2>
+          <p class="feature-card__description">Identify which publishers are releasing the most research in your domain, and get an idea of how studies are distributed across publishers.</p>
+        </div>
+        <figure class="feature-card__media">
+          <img src="assets/placeholder.svg" data-feature="publishers" alt="Screenshot of publishers leading in the research domain" />
+        </figure>
+      </section>
+
+      <section class="feature-card" id="key-journals">
+        <div class="feature-card__content">
+          <div class="feature-card__kicker">Journal intelligence</div>
+          <h2 class="feature-card__title">Key journals in your research interests</h2>
+          <p class="feature-card__description">Uncover the top journals in your area of interest and understand how studies are distributed across different journals.</p>
+        </div>
+        <figure class="feature-card__media">
+          <img src="assets/placeholder.svg" data-feature="key-journals" alt="Screenshot showcasing key journals for the research topic" />
+        </figure>
+      </section>
+
+      <section class="feature-card" id="leading-researchers">
+        <div class="feature-card__content">
+          <div class="feature-card__kicker">Expert spotlight</div>
+          <h2 class="feature-card__title">Leading researchers in your research topic</h2>
+          <p class="feature-card__description">Identify which researchers are most active in your topic, and explore how research activity is distributed among the experts shaping the field.</p>
+        </div>
+        <figure class="feature-card__media">
+          <img src="assets/placeholder.svg" data-feature="leading-researchers" alt="Screenshot listing leading researchers for the topic" />
+        </figure>
+      </section>
+
+      <section class="feature-card" id="research-types">
+        <div class="feature-card__content">
+          <div class="feature-card__kicker">Format breakdown</div>
+          <h2 class="feature-card__title">Research types in your field</h2>
+          <p class="feature-card__description">Discover the formats that are most common in your field, from research papers to book chapters, conference proceedings and more.</p>
+        </div>
+        <figure class="feature-card__media">
+          <img src="assets/placeholder.svg" data-feature="research-types" alt="Screenshot of research types distribution" />
+        </figure>
+      </section>
+
+      <section class="feature-card" id="open-access">
+        <div class="feature-card__content">
+          <div class="feature-card__kicker">Access model trends</div>
+          <h2 class="feature-card__title">Open access publishing trends</h2>
+          <p class="feature-card__description">Track the adoption of open access publishing in your area and see how it compares with closed access trends over time.</p>
+        </div>
+        <figure class="feature-card__media">
+          <img src="assets/placeholder.svg" data-feature="open-access" alt="Screenshot comparing open access and closed access publishing" />
+        </figure>
+      </section>
+
+      <section class="feature-card" id="impactful-studies">
+        <div class="feature-card__content">
+          <div class="feature-card__kicker">High-impact work</div>
+          <h2 class="feature-card__title">Highly impactful studies</h2>
+          <p class="feature-card__description">Identify the most influential studies for your keyword, guided by citations and other impact indicators that highlight pivotal research.</p>
+        </div>
+        <figure class="feature-card__media">
+          <img src="assets/placeholder.svg" data-feature="impactful-studies" alt="Screenshot featuring highly impactful studies" />
+        </figure>
+      </section>
+
+      <section class="feature-card" id="recent-developments">
+        <div class="feature-card__content">
+          <div class="feature-card__kicker">Stay up to date</div>
+          <h2 class="feature-card__title">Recent developments in research</h2>
+          <p class="feature-card__description">Keep track of the most recent studies published on your keyword, and stay ahead of emerging developments and trends.</p>
+        </div>
+        <figure class="feature-card__media">
+          <img src="assets/placeholder.svg" data-feature="recent-developments" alt="Screenshot highlighting recent research developments" />
+        </figure>
+      </section>
+    </div>
+  </main>
+
+  <footer class="footer">
+    <p><strong>Researchlytic</strong> &mdash; Research intelligence to surface what matters next.</p>
+  </footer>
+</body>
+</html>
