@@ -178,8 +178,33 @@ Stay current with the most recent publications, emerging trends, and cutting-edg
 - **Data Sources**: Comprehensive academic databases and publication repositories
 - **Analytics Engine**: Advanced algorithms for trend detection and impact analysis
 - **Visualization**: Interactive charts and graphs for data exploration
-- **Real-time Updates**: Regularly updated research databases
+- **Data Updates**: Regularly updated research databases based on published metadata
 - **Performance**: Fast, scalable infrastructure for instant results
+
+---
+
+## ⚠️ Platform Limitations & Considerations
+
+### 📊 **Data-Based Nature**
+- **Metadata-Driven**: Analysis is based on published research metadata, not live tracking
+- **Publication Lag**: Recent research may have 3-6 month delays before appearing in databases
+- **Coverage Gaps**: Some niche journals or non-English publications may have limited representation
+
+### 🔄 **Update Frequency**
+- **Not Real-Time**: Data reflects published research, not ongoing studies or preprints
+- **Periodic Updates**: Database refreshes occur regularly but not instantaneously
+- **Citation Delays**: Citation metrics may lag behind actual citation patterns
+
+### 🎯 **Scope Considerations**
+- **Published Research Only**: Unpublished studies, ongoing research, or grey literature not included
+- **Language Bias**: Primarily English-language publications, though multilingual sources included
+- **Database Coverage**: Results limited to publications indexed in available academic databases
+
+### 💡 **Best Use Practices**
+- **Trend Analysis**: Excellent for understanding historical trends and patterns
+- **Strategic Planning**: Ideal for medium to long-term research planning
+- **Complement Other Sources**: Best used alongside other research intelligence tools
+- **Historical Context**: Most reliable for analyzing established research fields (2+ years of data)
 
 ---
 
@@ -187,9 +212,10 @@ Stay current with the most recent publications, emerging trends, and cutting-edg
 
 - 🔢 **Millions** of research publications analyzed
 - 🌍 **Global** coverage across all research domains  
-- 📈 **Real-time** trend tracking and updates
+- 📈 **Historical** trend tracking with regular updates
 - 🎯 **Advanced** filtering and analytics capabilities
 - ⚡ **Instant** search results and visualizations
+- 📚 **Metadata-Driven** analysis of published research
 
 ---
 
