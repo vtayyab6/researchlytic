@@ -30,43 +30,43 @@ It provides insights into publication interest, research activity, leading insti
 ![Enter a research term](screenshots/enter-term.png)
 
 ### Publication Interest Over Time
-![Publication interest over time](screenshots/publication-trends.png)
+![Publication interest over time](screenshots/publication-trends.webp)
 
 ### Refine Your Search
-![Refine search](screenshots/refine-search.png)
+![Refine search](screenshots/refine-search.webp)
 
 ### Studies, SCR and SCRP
-![Studies, SCR, SCRP](screenshots/studies-scr-scrp.png)
+![Studies, SCR, SCRP](screenshots/studies-scr-scrp.webp)
 
 ### Leading Countries in Your Research Area
-![Leading countries](screenshots/leading-countries.png)
+![Leading countries](screenshots/leading-countries.webp)
 
 ### Research Interest by Institutions
-![Institutions](screenshots/institutions.png)
+![Institutions](screenshots/institutions.webp)
 
 ### Research Subjects and Subtopics
-![Subjects and subtopics](screenshots/subjects-subtopics.png)
+![Subjects and subtopics](screenshots/subjects-subtopics.webp)
 
 ### Publishers in Your Research Domain
-![Publishers](screenshots/publishers.png)
+![Publishers](screenshots/publishers.webp)
 
 ### Key Journals in Your Research Interests
-![Journals](screenshots/key-journals.png)
+![Journals](screenshots/key-journals.webp)
 
 ### Leading Researchers in Your Topic
-![Researchers](screenshots/researchers.png)
+![Researchers](screenshots/researchers.webp)
 
 ### Research Types in Your Field
-![Research types](screenshots/research-types.png)
+![Research types](screenshots/research-types.webp)
 
 ### Open Access Publishing Trends
-![Open access](screenshots/open-access.png)
+![Open access](screenshots/open-access.webp)
 
 ### Highly Impactful Studies
-![Impactful studies](screenshots/highly-impactful.png)
+![Impactful studies](screenshots/highly-impactful.webp)
 
 ### Recent Developments in Research
-![Recent developments](screenshots/recent-developments.png)
+![Recent developments](screenshots/recent-developments.webp)
 
 ---
 
